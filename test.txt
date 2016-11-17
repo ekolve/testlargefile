@@ -1,4 +1,1 @@
-sometestdata
-somechange
-line2
-line3
+['/Users/erick/local/bin/mylfs', 'clean', '--', 'test.txt']

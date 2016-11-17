@@ -1,0 +1,1 @@
+['/Users/erick/local/bin/mylfs', 'clean', '--', '48.txt']
